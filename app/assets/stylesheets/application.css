@@ -32,5 +32,7 @@ p{
 
 .container{
     border-radius: 10px;
+    box-shadow: 1px 1px 20px black; /* primero eje x, eje y, tamaño de la sombra y color */
     
 }
+
