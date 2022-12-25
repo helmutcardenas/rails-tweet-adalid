@@ -35,4 +35,9 @@ p{
     box-shadow: 1px 1px 20px black; /* primero eje x, eje y, tamaño de la sombra y color */
     
 }
-
+ nav{
+    background-color: whitesmoke;
+ }
+ a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
