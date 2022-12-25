@@ -33,6 +33,7 @@ p{
 .container{
     border-radius: 10px;
     box-shadow: 1px 1px 20px black; /* primero eje x, eje y, tamaño de la sombra y color */
+    text-align: center;
     
 }
  nav{
@@ -40,4 +41,8 @@ p{
  }
  a{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ input{
+    text-align: center;
  }
